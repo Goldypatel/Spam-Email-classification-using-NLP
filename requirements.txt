@@ -1,0 +1,7 @@
+seaborn
+pandas
+numpy
+scikit-learn
+nltk
+pickle
+matplotlib.pyplot
